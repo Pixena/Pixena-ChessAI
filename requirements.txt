@@ -1,0 +1,7 @@
+#Версии актуальные на 03.09.2025
+
+flask
+flask-cors
+python-chess
+numpy
+gunicorn
